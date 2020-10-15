@@ -1,24 +1,22 @@
-# mevn-front
+Internet shop for gamers
 
-## Project setup
-```
-npm install
-```
+command list:
+-npm run dev - start back end (directory back)
+-npm run serve - start front end
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+For front:
+  Vue.js
+    -vuex
+    -vue-router
+    -bootstrap
+    -Vue Stripe Elements(for work with "Stripe")
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For back:
+   Node.js
+      -Express
+      -Mongo Database (mongoose)
+      -stripe
+      -boom(for catch error)
+      
+  
+   
