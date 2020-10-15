@@ -4,6 +4,8 @@ command list:
 -npm run dev - start back end (directory back)
 -npm run serve - start front end
 
+____Tehnologys what i used____
+
 For front:
   Vue.js
     -vuex
